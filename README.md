@@ -15,6 +15,11 @@ feedrate.
 5. Warm up the spindle by gradually ramping up from a start RPM, reaching a finish RPM.
 6. Optionally activate flood coolant based on user configuration.
 
+Two versions of the code:
+1. Base Python version that uses the a .JSON file with stored parameters.
+2. Python-Streamlit application that allows for a user GUI to change parameters.
+
+
 **Supported Controllers:** Fanuc, Heidenhain (Klartext)
 
 **References:**
