@@ -1,0 +1,11 @@
+{
+	"machine_id": 1,
+	"start_feedrate": 100,
+	"end_feedrate": 1000,
+	"inc_feedrate": 10,
+	"start_rpm": 500,
+	"end_rpm": 8000,
+	"inc_rpm": 10,
+	"coolant_on": true,
+	"controller": "heidenhain"
+}
